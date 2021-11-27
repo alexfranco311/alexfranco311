@@ -1,5 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://github.com/alexfranco311/alexfranco311" target="_blank">Alex</a> <img
-src="images/Hi.gif" height="35" /></h1>
+<h1 align="center">Hi there, I'm <a href="https://github.com/alexfranco311/alexfranco311" target="_blank">Alex</a>!</h1>
 <p align="center">A Frontend Engineer in the Queen City: Charlotte, NC</p>
 <hr>
 <p align="center" style="font-size:25px">Things I Code With</p>
@@ -23,14 +22,20 @@ src="images/Hi.gif" height="35" /></h1>
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
   -->
+  
   <hr>
   <div align="center">
-  ![Alex's github stats](https://github-readme-stats.vercel.app/api?username=alexfranco311)
+  
+  ![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexfranco311&show_icons=true&theme=noctis_minimus)
+  
+  
   
   </div>
   <hr>
   <div align="center">
-   ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=alexfranco311&theme=blue-green)
+  
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexfranco311&layout=compact&theme=noctis_minimus)
+
   
   </div>
 </p>
